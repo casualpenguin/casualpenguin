@@ -1,0 +1,14 @@
+---
+title: 'First things first: Installing R'
+author: Dario
+date: '2018-01-03'
+slug: first-things-first-installing-r
+categories:
+  - R
+tags: []
+---
+
+###HI.
+
+How are you feeling today?
+

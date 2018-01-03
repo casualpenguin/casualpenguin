@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\" ?>\n<urlset xmlns=\"http://www.sitemaps.org/schemas/sitemap/0.9\"\n  xmlns:xhtml=\"http://www.w3.org/1999/xhtml\">\n  \n  <url>\n    <loc>/2018/01/03/first-things-first-installing-r/</loc>\n    <lastmod>2018-01-03T00:00:00+00:00</lastmod>\n  </url>\n  \n  <url>\n    <loc>/2016/12/30/a-plain-markdown-post/</loc>\n    <lastmod>2016-12-30T21:49:57-07:00</lastmod>\n  </url>\n  \n  <url>\n    <loc>/about/</loc>\n    <lastmod>2016-05-05T21:48:51-07:00</lastmod>\n  </url>\n  \n  <url>\n    <loc>/2015/07/23/hello-r-markdown/</loc>\n    <lastmod>2015-07-23T21:13:14-05:00</lastmod>\n  </url>\n  \n  <url>\n    <loc>/2015/01/01/lorem-ipsum/</loc>\n    <lastmod>2015-01-01T13:09:13-06:00</lastmod>\n  </url>\n  \n  <url>\n    <loc>/</loc>\n    <lastmod>2018-01-03T00:00:00+00:00</lastmod>\n    <priority>0</priority>\n  </url>\n  \n  <url>\n    <loc>/categories/</loc>\n    <priority>0</priority>\n  </url>\n  \n  <url>\n    <loc>/tags/plot/</loc>\n    <lastmod>2015-07-23T21:13:14-05:00</lastmod>\n    <priority>0</priority>\n  </url>\n  \n  <url>\n    <loc>/post/</loc>\n    <lastmod>2018-01-03T00:00:00+00:00</lastmod>\n    <priority>0</priority>\n  </url>\n  \n  <url>\n    <loc>/categories/r/</loc>\n    <lastmod>2018-01-03T00:00:00+00:00</lastmod>\n    <priority>0</priority>\n  </url>\n  \n  <url>\n    <loc>/tags/r-markdown/</loc>\n    <lastmod>2015-07-23T21:13:14-05:00</lastmod>\n    <priority>0</priority>\n  </url>\n  \n  <url>\n    <loc>/tags/regression/</loc>\n    <lastmod>2015-07-23T21:13:14-05:00</lastmod>\n    <priority>0</priority>\n  </url>\n  \n  <url>\n    <loc>/tags/</loc>\n    <lastmod>2015-07-23T21:13:14-05:00</lastmod>\n    <priority>0</priority>\n  </url>\n  \n</urlset>",
+    "created" : 1514944514403.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3972538256",
+    "id" : "D6D5B587",
+    "lastKnownWriteTime" : 1514944820,
+    "last_content_update" : 1514944820,
+    "path" : "~/GitHub/casualpenguin.github.io/dc-blogdown/public/sitemap.xml",
+    "project_path" : "public/sitemap.xml",
+    "properties" : {
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "xml"
+}

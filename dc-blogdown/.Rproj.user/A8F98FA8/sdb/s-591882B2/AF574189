@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: 'First things first: Installing R'\nauthor: Dario\ndate: '2018-01-03'\nslug: first-things-first-installing-r\ncategories:\n  - R\ntags: []\n---\n\n###HI.\n\nHow are you feeling today?\n\n",
+    "created" : 1514944362829.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1754260227",
+    "id" : "AF574189",
+    "lastKnownWriteTime" : 1514944819,
+    "last_content_update" : 1514944819228,
+    "path" : "~/GitHub/casualpenguin.github.io/dc-blogdown/content/post/2018-01-03-first-things-first-installing-r.Rmd",
+    "project_path" : "content/post/2018-01-03-first-things-first-installing-r.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
